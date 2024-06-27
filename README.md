@@ -28,5 +28,10 @@ bash -c "$(wget -qO- https://raw.githubusercontent.com/st4ngkudut/free-XRAY/main
 bash -c "$(curl -fsSL https://raw.githubusercontent.com//st4ngkudut/free-XRAY/main/install-xray)"
 ```
 
+# NOTES
+- setelah selesai install ubah core Xray dengan memilih menu [16. Change Xray-core Mod]
+- kemudian restart xray dengan memilih menu [18. Restart Xray]
+- done
+
 # Telegram
 [![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/st4ngkudut/)
